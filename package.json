@@ -1,6 +1,6 @@
 {
   "name": "is-svg-attribute",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Check if an attribute name is an SVG attribute",
   "main": "index.js",
   "scripts": {
